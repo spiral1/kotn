@@ -1,0 +1,40 @@
+{
+    "company": {
+        "name": "Kings of the North",
+        "logo": "/assets/images/logo.png"
+    },
+
+    "navigaton": [
+        {
+            "name": "About",
+            "href": "about"
+        },
+        {
+            "name": "Services",
+            "href": "services"
+        },
+        {
+            "name": "Gallery",
+            "href": "gallery"
+        }
+    ],
+    "callToAction": {
+        "text": "Hire",
+        "href": "contact"
+    },
+    "mainHero": {
+        "title": "Kings of the north",
+        "subtitle": "Doing stuff with things for people",
+        "description": "Work work work work work",
+        "img": "/assets/images/kotnLogo.png",
+        "primaryAction": {
+          "text": "Hire",
+          "href": "contact"
+        },
+        "secondaryAction": {
+          "text": "More info",
+          "href": "about"
+        }
+      }
+    
+}
